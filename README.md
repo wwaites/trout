@@ -15,7 +15,7 @@ trout depends on the following programs being present on the system:
 with a relatively new version of the go language tools that understand
 custom repositories, you can just do
 
-    go install hubs.net.uk/sw/trout
+    go get hubs.net.uk/sw/trout
 
 otherwise, clone this repository and do
 
